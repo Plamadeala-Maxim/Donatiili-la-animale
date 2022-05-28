@@ -1,0 +1,17 @@
+{
+  "name": "adoptare",
+  "version": "1.0.0",
+  "description": "Creearea unui site proprietarii de animale va adauga animalele personale si cine va dori va dona acest animal",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Adoptare",
+    "donare",
+    "animale",
+    "ajutor"
+  ],
+  "author": "Maxon",
+  "license": "ISC"
+}
