@@ -1,0 +1,53 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Vanea",
+      "imgUrl": "#",
+      "description": "Talkovii",
+      "donation": 50
+    },
+    {
+      "id": 2,
+      "name": "Igori",
+      "imgUrl": "#",
+      "description": "Talkovii",
+      "donation": 50
+    },
+    {
+      "id": 3,
+      "name": "Valik",
+      "imgUrl": "#",
+      "description": "Talkovii",
+      "donation": 50
+    },
+    {
+      "name": "adsfa",
+      "imgUrl": "asdfasdf",
+      "description": "asdfasdfasdf",
+      "donation": 0,
+      "id": 4
+    },
+    {
+      "name": "zsdfgs",
+      "imgUrl": "sdfgsdfgsdfg",
+      "description": "sdfgsdfgadgadfg",
+      "donation": 0,
+      "id": 5
+    },
+    {
+      "name": "zsdfgs",
+      "imgUrl": "sdfgsdfgsdfg",
+      "description": "sdfgsdfgadgadfgasdf",
+      "donation": 0,
+      "id": 6
+    },
+    {
+      "name": "zsdfgs",
+      "imgUrl": "sdfgsdfgsdfgasdef",
+      "description": "sdfgsdfgadgadfgasdf",
+      "donation": 0,
+      "id": 7
+    }
+  ]
+}
